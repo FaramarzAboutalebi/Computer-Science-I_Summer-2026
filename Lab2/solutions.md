@@ -123,7 +123,7 @@ $$= \frac{2n^2 - n^2 + n}{2} = \frac{n^2+n}{2} \longrightarrow O(n^2) \qquad \bo
 
 $$\boxed{1,\ 2,\ 3,\ \ldots,\ n} \longrightarrow O(n)$$
 
-$$\boxed{\phantom{xxxxxxxxxx}} \longrightarrow\ ?\ \ O(\log n)$$
+$$\boxed{\qquad\qquad\qquad} \longrightarrow\ ?\ \ O(\log n)$$
 
 $$\boxed{0,\ 1,\ 2,\ \ldots,\ n-1} \longrightarrow O(n)$$
 
